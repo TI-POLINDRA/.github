@@ -1,31 +1,33 @@
-# Jurusan Teknik Informatika - Politeknik Negeri Indramayu
+# Jurusan Teknik Informatika - Politeknik Negeri Indramayu  
 
-Selamat datang di **GitHub Organization Jurusan Teknik Informatika POLINDRA**! 🚀
+[🇬🇧 English Version](README_EN.md)  
 
-## Tentang Kami
-Jurusan Teknik Informatika di Politeknik Negeri Indramayu berfokus pada pendidikan vokasi di bidang teknologi informasi dengan pendekatan **praktis dan berbasis industri**. Kami membekali mahasiswa dengan keterampilan di berbagai bidang teknologi, termasuk:
+Selamat datang di **GitHub Organization Jurusan Teknik Informatika POLINDRA**! 🚀  
 
-- 💻 **Pengembangan Perangkat Lunak** (Web, Mobile, dan Desktop)
-- 📡 **Jaringan Komputer & Keamanan Siber**
-- 🤖 **Kecerdasan Buatan (AI) & Machine Learning**
-- 🌐 **Internet of Things (IoT) & Sistem Embedded**
-- 📊 **Data Science & Big Data**
-- 🔐 **Keamanan Sistem & Cloud Computing**
+## Tentang Kami  
+Jurusan Teknik Informatika di Politeknik Negeri Indramayu berfokus pada pendidikan vokasi di bidang teknologi informasi dengan pendekatan **praktis dan berbasis industri**. Kami membekali mahasiswa dengan keterampilan di berbagai bidang teknologi, termasuk:  
 
-## Apa yang Kami Lakukan?
-Kami menggunakan GitHub sebagai platform kolaborasi dalam pengembangan proyek, penelitian, dan pembelajaran. Repository di organisasi ini mencakup:
+- 💻 **Pengembangan Perangkat Lunak** (Web, Mobile, dan Desktop)  
+- 📡 **Jaringan Komputer & Keamanan Siber**  
+- 🤖 **Kecerdasan Buatan (AI) & Machine Learning**  
+- 🌐 **Internet of Things (IoT) & Sistem Embedded**  
+- 📊 **Data Science & Big Data**  
+- 🔐 **Keamanan Sistem & Cloud Computing**  
 
-- 📂 **Proyek Mahasiswa** (Tugas Akhir, Skripsi, dan Proyek Open Source)
-- 🎓 **Materi Perkuliahan & Workshop**
-- 🛠️ **Riset & Pengembangan Teknologi**
-- 💡 **Hackathon & Kompetisi IT**
+## Apa yang Kami Lakukan?  
+Kami menggunakan GitHub sebagai platform kolaborasi dalam pengembangan proyek, penelitian, dan pembelajaran. Repository di organisasi ini mencakup:  
 
-## Bergabung & Berkontribusi
-Kami membuka peluang bagi mahasiswa, dosen, dan komunitas teknologi untuk **berkontribusi dalam proyek open-source** dan mengembangkan inovasi teknologi bersama. Jangan ragu untuk **fork, pull request, dan berkolaborasi**!
+- 📂 **Proyek Mahasiswa** (Tugas Akhir, Skripsi, dan Proyek Open Source)  
+- 🎓 **Materi Perkuliahan & Workshop**  
+- 🛠️ **Riset & Pengembangan Teknologi**  
+- 💡 **Hackathon & Kompetisi IT**  
+
+## Bergabung & Berkontribusi  
+Kami membuka peluang bagi mahasiswa, dosen, dan komunitas teknologi untuk **berkontribusi dalam proyek open-source** dan mengembangkan inovasi teknologi bersama. Jangan ragu untuk **fork, pull request, dan berkolaborasi**!  
 
 📧 **Kontak Kami**: [support@polindra.ac.id](mailto:support@polindra.ac.id)  
 🌍 **Website**: [polindra.ac.id](https://www.polindra.ac.id)  
 
 ---
 
-✨ Mari bersama membangun inovasi teknologi dan menciptakan solusi digital yang berdampak! ✨
+✨ Mari bersama membangun inovasi teknologi dan menciptakan solusi digital yang berdampak! ✨  
